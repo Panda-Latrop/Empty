@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharacterPlayerArmsAnimatorRailController
+  m_Controller: {fileID: 9100000, guid: 0b1e6d1481562fb4b88517cf7ac24117, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7995066303423752833, guid: 2823213518d83ca4f92b67f91a75cc38, type: 3}
+    m_OverrideClip: {fileID: -7814814067522818050, guid: 2823213518d83ca4f92b67f91a75cc38, type: 3}
+  - m_OriginalClip: {fileID: 8042991096850896796, guid: 2823213518d83ca4f92b67f91a75cc38, type: 3}
+    m_OverrideClip: {fileID: -3452031912387743648, guid: 2823213518d83ca4f92b67f91a75cc38, type: 3}

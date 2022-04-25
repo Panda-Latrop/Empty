@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63c1b835b7b06454fbc36208974f71d1, type: 3}
+  m_Name: Level2SpawnList
+  m_EditorClassIdentifier: 
+  pawns:
+  - {fileID: 1708729724511175033, guid: b1e0236c06f7ee741bcf373e19ed90c3, type: 3}
+  - {fileID: 4098174341174876907, guid: 22f968001632dd54593daecd2054d916, type: 3}
+  chance:
+  - 0.7
+  - 1.1
+  spawnCount: 6

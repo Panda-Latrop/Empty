@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 148dec4c991a6154fb3b483efd428c86, type: 3}
+  m_Name: AgentHappyDeathPistolCue
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: ce06b08d8c9291a48aad7ee709e85304, type: 3}
+  - {fileID: 8300000, guid: a927443223cc3bb429d00ed0f0f387d2, type: 3}

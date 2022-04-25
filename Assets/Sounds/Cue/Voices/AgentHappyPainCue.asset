@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 148dec4c991a6154fb3b483efd428c86, type: 3}
+  m_Name: AgentHappyPainCue
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 285cd3068edf13b408ea310a667cf6bc, type: 3}
+  - {fileID: 8300000, guid: 19e544dab0ba2ef43836788c3e3822d1, type: 3}
+  - {fileID: 8300000, guid: 4aa133c490d935f4088a537ad7c3761c, type: 3}
+  - {fileID: 8300000, guid: 2566c4db02fb5824a862b393bc51cb82, type: 3}

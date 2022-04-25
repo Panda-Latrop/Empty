@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e5651005bebcfd4da469f7dc0844dec, type: 3}
+  m_Name: BattleMusic
+  m_EditorClassIdentifier: 
+  mixerGroup: {fileID: -9181037393314869739, guid: 94880ede6e5d7804caa3a608a8ee02ce, type: 2}
+  music:
+  - {fileID: 8300000, guid: 7ce7d52a47a2038479247f11e294c892, type: 3}
+  - {fileID: 8300000, guid: a347a1dca294a164580bb53aaddd3a3d, type: 3}
+  - {fileID: 8300000, guid: 9f8ced42cafd8104596f36fb14a4759b, type: 3}

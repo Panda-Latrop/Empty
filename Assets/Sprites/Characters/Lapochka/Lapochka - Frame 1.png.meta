@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 112244134f1208448b394bd0f5f4b92a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4547745445777577948
+    second: Lapochka - Frame 1_0
+  - first:
+      213: 447504623164568591
+    second: Lapochka - Frame 1_1
+  - first:
+      213: -2280653083547611209
+    second: Lapochka - Frame 1_2
+  - first:
+      213: -5365077133930099004
+    second: Lapochka - Frame 1_3
+  - first:
+      213: -496819931862460042
+    second: Lapochka - Frame 1_4
+  - first:
+      213: 6347429233286325811
+    second: Lapochka - Frame 1_5
+  - first:
+      213: -6027416042585740717
+    second: Lapochka - Frame 1_6
+  - first:
+      213: -4567009691390716548
+    second: Lapochka - Frame 1_7
+  - first:
+      213: 8547952982142598890
+    second: Lapochka - Frame 1_8
+  - first:
+      213: -7317760218943250027
+    second: Lapochka - Frame 1_9
+  - first:
+      213: -7136769190288108550
+    second: Lapochka - Frame 1_10
+  - first:
+      213: 7054549313511009678
+    second: Lapochka - Frame 1_11
+  - first:
+      213: -3103995223293345401
+    second: Lapochka - Frame 1_12
+  - first:
+      213: 4653054386643494261
+    second: Lapochka - Frame 1_13
+  - first:
+      213: -6886683295357525924
+    second: Lapochka - Frame 1_14
+  - first:
+      213: 2056219678839798337
+    second: Lapochka - Frame 1_15
+  - first:
+      213: -7303347112108029579
+    second: Lapochka - Frame 1_16
+  - first:
+      213: -1101474974851296346
+    second: Lapochka - Frame 1_17
+  - first:
+      213: 6438771416068696685
+    second: Lapochka - Frame 1_18
+  - first:
+      213: -1793973107619441606
+    second: Lapochka - Frame 1_19
+  - first:
+      213: -6208514740684942168
+    second: Lapochka - Frame 1_20
+  - first:
+      213: 7905170818542706213
+    second: Lapochka - Frame 1_21
+  - first:
+      213: -5209502119319070147
+    second: Lapochka - Frame 1_22
+  - first:
+      213: 7947950107952618532
+    second: Lapochka - Frame 1_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 330
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 374
+        width: 57
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428e68fac9923e0c0800000000000000
+      internalID: -4547745445777577948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 374
+        width: 56
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b113751bd53600800000000000000
+      internalID: 447504623164568591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 609
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfce3b9a1e7950e0800000000000000
+      internalID: -2280653083547611209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 606
+        width: 96
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce8687a5ca6b85b0800000000000000
+      internalID: -5365077133930099004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 684
+        width: 245
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679110c77e0fa19f0800000000000000
+      internalID: -496819931862460042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 654
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33626fee149961850800000000000000
+      internalID: 6347429233286325811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 614
+        width: 78
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aaf2c3b015a5ca0800000000000000
+      internalID: -6027416042585740717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 692
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d3eaf1e8be90c0800000000000000
+      internalID: -4567009691390716548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 692
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb951c2fd60a670800000000000000
+      internalID: 8547952982142598890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 746
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591276e1ad7127a90800000000000000
+      internalID: -7317760218943250027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 748
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3dce0db3a15fc90800000000000000
+      internalID: -7136769190288108550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 739
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dac4a593bc6e160800000000000000
+      internalID: 7054549313511009678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 708
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78147134ac46ce4d0800000000000000
+      internalID: -3103995223293345401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 846
+        width: 84
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575657ccf48f29040800000000000000
+      internalID: 4653054386643494261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 884
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c502993b7069d60a0800000000000000
+      internalID: -6886683295357525924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 896
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14af96157e8298c10800000000000000
+      internalID: 2056219678839798337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 894
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5790d6f0f7c45aa90800000000000000
+      internalID: -7303347112108029579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 943
+        width: 126
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a39103a856c6b0f0800000000000000
+      internalID: -1101474974851296346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_18
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 667
+        width: 340
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa6b42d7c1b5950800000000000000
+      internalID: 6438771416068696685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 558
+        width: 196
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345db7a6f68a17e0800000000000000
+      internalID: -1793973107619441606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_20
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 512
+        width: 147
+        height: 48
+      alignment: 9
+      pivot: {x: 0.95, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a492baccbce6d9a0800000000000000
+      internalID: -6208514740684942168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_21
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 592
+        width: 157
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e9500e9fec4bd60800000000000000
+      internalID: 7905170818542706213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_22
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 592
+        width: 157
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a97517c6124b7b0800000000000000
+      internalID: -5209502119319070147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapochka - Frame 1_23
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 511
+        width: 147
+        height: 47
+      alignment: 9
+      pivot: {x: 0.045, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c1b0d538acc4e60800000000000000
+      internalID: 7947950107952618532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

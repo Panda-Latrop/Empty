@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d2c36f198096ea488e94f44a52960cc, type: 3}
+  m_Name: FootstepMap
+  m_EditorClassIdentifier: 
+  defaultFootstep: {fileID: 11400000, guid: 218cfa9a040b212458287dd445faf451, type: 2}
+  footsteps:
+  - materials:
+    - {fileID: 13400000, guid: 1d872ea229b22b440822250f508c5337, type: 2}
+    sound: {fileID: 11400000, guid: 218cfa9a040b212458287dd445faf451, type: 2}
+  - materials:
+    - {fileID: 13400000, guid: 41936058a46e41741b784e5f4d3f272e, type: 2}
+    sound: {fileID: 11400000, guid: ac4ff3a454e9e2f4fb7417e46164fd19, type: 2}
+  - materials:
+    - {fileID: 13400000, guid: 5738cf182ffdc2d4697eb6276d527e4a, type: 2}
+    sound: {fileID: 11400000, guid: 218cfa9a040b212458287dd445faf451, type: 2}

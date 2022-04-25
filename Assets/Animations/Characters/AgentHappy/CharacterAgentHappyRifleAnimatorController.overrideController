@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharacterAgentHappyRifleAnimatorController
+  m_Controller: {fileID: 9100000, guid: 4cdba0bac0b2e244f8f3935b14936ef7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1193369665350258775, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+    m_OverrideClip: {fileID: -6941593348938646518, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+  - m_OriginalClip: {fileID: 9206953577439541776, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+    m_OverrideClip: {fileID: 641767898551413220, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+  - m_OriginalClip: {fileID: 1186915542785361879, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+    m_OverrideClip: {fileID: -7565356545395855526, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+  - m_OriginalClip: {fileID: -7878029317796220084, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+    m_OverrideClip: {fileID: -6986691707755743034, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+  - m_OriginalClip: {fileID: -8413116699184116451, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+    m_OverrideClip: {fileID: 9049916045113685275, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+  - m_OriginalClip: {fileID: -4630676105750899403, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
+    m_OverrideClip: {fileID: 284236381346575638, guid: 4104a8aa387c39a418c26877a6a43a4a, type: 3}
